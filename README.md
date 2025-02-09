@@ -6,3 +6,5 @@ LIST OF LANGUAGES:
 Lanpadokad
 
 (unnamed but cool)
+
+Tijek
