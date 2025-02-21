@@ -8,3 +8,5 @@ Lanpadokad
 Tijek
 
 unnamed but uses ancient greek alphabet
+
+Helvetikana
