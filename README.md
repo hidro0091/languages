@@ -10,3 +10,5 @@ Tijek
 unnamed but uses ancient greek alphabet
 
 Helvetikana
+
+Halia (Modern Lanpadokad)
